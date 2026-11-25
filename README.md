@@ -1,6 +1,6 @@
 # Monday Morning Punchlines
 
-[![competition](https://make.fun/badge/u-gentle-badger-68-monday-morning-punchlines-709645dc/berkahmuse/monday-morning-1125-berkahmuse-2/competition.svg)](https://make.fun/bounty/u-gentle-badger-68-monday-morning-punchlines-709645dc)
+[![competition](https://make.fun/badge/u-gentle-badger-68-monday-morning-punchlines-709645dc.svg)](https://make.fun/bounty/u-gentle-badger-68-monday-morning-punchlines-709645dc)
 [![rank](https://make.fun/badge/u-gentle-badger-68-monday-morning-punchlines-709645dc/berkahmuse/monday-morning-1125-berkahmuse-2/rank.svg)](https://make.fun/bounty/u-gentle-badger-68-monday-morning-punchlines-709645dc)
 [![reward](https://make.fun/badge/u-gentle-badger-68-monday-morning-punchlines-709645dc/berkahmuse/monday-morning-1125-berkahmuse-2/reward.svg)](https://make.fun/bounty/u-gentle-badger-68-monday-morning-punchlines-709645dc)
 
